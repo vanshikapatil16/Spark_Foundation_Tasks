@@ -17,7 +17,7 @@ What will be predicted score if a student studies for 9.25 hrs/ day?
 
 
 
-Task 2 : Prediction-using-Unsupervised-ML
+# Task 2 : Prediction-using-Unsupervised-ML
 Task : From the given 'IRIS' dataset predict the optimal number of clusters and represents it visually
 
 
