@@ -26,7 +26,9 @@ The task is :
 
 (i) As a business manager, try to find out the weak areas where you can work to make more profit.
 
-(ii) What all business problems you can derive by exploring the data?
+(ii) What all business problems you can derive by exploring the data? <br>
+You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
+Dataset link :https://bit.ly/3i4rbWl <br>
 
 (iii) Dash Boards - explaining the charts and interpretations.
 
@@ -42,12 +44,11 @@ Mumbai Indians have needed more games for each win while teams like CSK have nee
 
 
 
-# Task-6 : To Explore Business Analytics (Level - Beginner & Intermediate)
-Please click on the images on right side to view my solution (preferably youtube).
+# Task 6 : Prediction-using-Decision-Tree-Algorithm
+For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
 
-Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
-As a business manager, try to find out the weak areas where you can work to make more profit.
-What all business problems you can derive by exploring the data?
-You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
-Dataset link :https://bit.ly/3i4rbWl <br>
-Create storyboards. Screen record along with your audio explaining the charts and interpretations.
+● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+● Dataset : https://bit.ly/3kXTdox
+
+To predict the class of species used the following decision tree algorithms: 1. Decision Tree Classifier - Fully Grown 2. Decision Tree Classifier - With Optimal Depth 3. Decision Tree Classifier - Grid Search
