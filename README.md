@@ -1,5 +1,6 @@
 # The Sparks Foundation Tasks
-All Spark Foundation's Data Analytics Tasks
+All Sparks Foundation's Data Analytics Tasks
+Submitted by- Vanshika Patil
 
 Internship Category - Data Science and Business Analytics
 Internship Duration - 1 Month ( February-2023 )
